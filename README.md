@@ -4,6 +4,7 @@
 ##### Quantumult X使用方法： 
 ###### 1、订阅链接中引用 
 打开QuanX 配置文件-编辑，找到［server_remote］字段，在想要增加图标的相应订阅中修改，在enable＝true之前加上 img-url=https://raw.githubusercontent.com/cai23511/yex/master/name.png
+
 *完整示例：*
 
 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt, tag=Sample-02, as-policy=static, https://raw.githubusercontent.com/cai23511/yex/master/name.png, enabled=false
