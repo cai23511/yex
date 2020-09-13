@@ -1,4 +1,4 @@
-#### telegram频道地址：[yex图标包](超链接地址 "https://t.me/yex")
+#### telegram频道地址：[yex图标包](超链接地址 "https://t.me/yex/")
 ## 本项目可用于QuantumultX 1.07及以上版本
 #### 注意： 本项目图标可用于订阅，Task，策略组等位置的远程引用
 ##### Quantumult X使用方法： 
