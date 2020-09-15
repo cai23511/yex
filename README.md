@@ -1,4 +1,5 @@
 #### telegram频道地址：[yex图标包](https://t.me/yex031)
+#### 如果图标组内没有你想要的图标，可以直接在Issues内留言，我看到后会更新。
 ## 本项目可用于QuantumultX 1.07及以上版本
 #### 注意： 本项目图标可用于订阅，Task，策略组等位置的远程引用
 ##### Quantumult X使用方法： 
@@ -18,3 +19,5 @@ https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-comple
 *完整示例：*
 
 static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=https://raw.githubusercontent.com/cai23511/yex/master/name.png
+#### 重启 Quantumult X 即可见到效果。
+更新方法：当远程图标更新时，请手动清理本地图标缓存(打开“文件”应用，依次进入“我的 iPhone 或 iCloud Drive-Quantumult X-Images”，删除Images文件夹内所有缓存文件)，并重启 Quantumult X，远程图标会重新下载并生效。
