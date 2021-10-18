@@ -33,4 +33,4 @@ DOMAIN,embyclub.com,AsianTV
 DOMAIN,jp.emby.cyou,YouTube
 DOMAIN-SUFFIX,emby.wtf,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Pornhub.list,Proxy
-DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,bilibili.com,Direct
