@@ -6,9 +6,9 @@ http-api-web-dashboard = true
 http-api = 147258@0.0.0.0:2351
 
 [Rule]
-DOMAIN-SUFFIX,shopee.tw,TW
-DOMAIN,k.8c5778.com,Emby
-DOMAIN,jk.55fc63.com,Emby
+DOMAIN-SUFFIX,shopee.tw,AsianTV
+DOMAIN,k.8c5778.com,AsianTV
+DOMAIN,jk.55fc63.com,AsianTV
 DOMAIN,bttwo.com,DIRECT
 DOMAIN,api.miued.com,DIRECT
 DOMAIN,fendou.duoduozy.com,DIRECT
@@ -28,15 +28,9 @@ DOMAIN,v2.ddrk.me,DIRECT
 DOMAIN-SUFFIX,cloudfs.info,Others
 DOMAIN-SUFFIX,fvs.io,Others
 DOMAIN-SUFFIX,7mmtv.tv,Others
-DOMAIN-SUFFIX,slyk.net,HK
-DOMAIN,embyclub.com,Emby
+DOMAIN-SUFFIX,slyk.net,AsianTV
+DOMAIN,embyclub.com,AsianTV
 DOMAIN,jp.emby.cyou,YouTube
 DOMAIN-SUFFIX,emby.wtf,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Pornhub.list,Proxy
 DOMAIN-SUFFIX,bilibili.com,DIRECT
-
-[Proxy Group]
-HK = YouTube, Proxy
-SG = AsianTV, Proxy
-Emby = Proxy
-TW = YouTube
