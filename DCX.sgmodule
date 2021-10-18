@@ -1,0 +1,35 @@
+#!name=托管专用
+#!desc=托管专用模块
+
+http-api-web-dashboard = true
+http-api = 147258@0.0.0.0:2351
+
+[Rule]
+DOMAIN-SUFFIX,shopee.tw,TW
+DOMAIN,k.8c5778.com,Emby
+DOMAIN,jk.55fc63.com,Emby
+DOMAIN,bttwo.com,DIRECT
+DOMAIN,api.miued.com,DIRECT
+DOMAIN,fendou.duoduozy.com,DIRECT
+DOMAIN,bttwo.com,DIRECT
+DOMAIN,w7tv.com,DIRECT
+DOMAIN,mp4er.com,DIRECT
+DOMAIN,bde4.cc,DIRECT
+DOMAIN,fositv.com,DIRECT
+DOMAIN,new.iskcd.com,DIRECT
+DOMAIN,cdn2.bzjupinhang.com,DIRECT
+DOMAIN,loli.magedn.com,DIRECT
+DOMAIN,ddrk.me,DIRECT
+DOMAIN,v3.ddrk.me,DIRECT
+DOMAIN,qqgame.gzc.svp.tencent-cloud.com,DIRECT
+DOMAIN,ddrk.oss-cn-shanghai.aliyuncs.com,DIRECT
+DOMAIN,v2.ddrk.me,DIRECT
+DOMAIN-SUFFIX,cloudfs.info,Others
+DOMAIN-SUFFIX,fvs.io,Others
+DOMAIN-SUFFIX,7mmtv.tv,Others
+DOMAIN-SUFFIX,slyk.net,HK
+DOMAIN,embyclub.com,Emby
+DOMAIN,jp.emby.cyou,YouTube
+DOMAIN-SUFFIX,emby.wtf,Emby
+RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Pornhub.list,Proxy
+DOMAIN-SUFFIX,bilibili.com,DIRECT
