@@ -36,7 +36,7 @@ RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumu
 DOMAIN-SUFFIX,bilibili.com,DIRECT
 
 [Proxy Group]
-HK = select, 🇭🇰 香港 AIA [East], 🇭🇰 香港 AIA [North], 🇭🇰 香港 AIA [South]
-SG = select, 🇸🇬 新加坡 AIA [East], 🇸🇬 新加坡 AIA [North], 🇸🇬 新加坡 AIA [South]
-Emby = select, 🇨🇳 台湾 AIA [East], 🇨🇳 台湾 AIA [North], 🇨🇳 台湾 AIA [South], 🇨🇳 台湾 BGP [01], 🇨🇳 台湾 BGP [02], 🇨🇳 台湾 CHT [01], 🇨🇳 台湾 CHT [02], 🇨🇳 台湾 CHT [03], 🇨🇳 台湾 CHT [04], 🇨🇳 台湾 CHT [05], 🇨🇳 台湾 CHT [06], 🇨🇳 台湾 NTT, 🇨🇳 台湾 Seed, 🇸🇬 新加坡 AIA [East], 🇸🇬 新加坡 AIA [North], 🇸🇬 新加坡 AIA [South], 🇸🇬 新加坡 Aliyun, 🇸🇬 新加坡 BGP [01], 🇸🇬 新加坡 BGP [02], 🇸🇬 新加坡 IEPL, 🇸🇬 新加坡 NTT [01], 🇸🇬 新加坡 NTT [02], 🇸🇬 新加坡 NTT [03], 🇯🇵 日本 5G [01], 🇯🇵 日本 5G [02], 🇯🇵 日本 AIA [East], 🇯🇵 日本 AIA [North], 🇯🇵 日本 AIA [South], 🇯🇵 日本 BGP [01], 🇯🇵 日本 BGP [02], 🇯🇵 日本 IEPL, 🇰🇷 韩国 5G, 🇰🇷 韩国 AIA [East], 🇰🇷 韩国 AIA [North], 🇰🇷 韩国 AIA [South], 🇭🇰 香港 AIA [East], 🇭🇰 香港 AIA [North], 🇭🇰 香港 AIA [South], 🇭🇰 香港 IEPL [01], 🇭🇰 香港 IEPL [02], 🇭🇰 香港 IEPL [03], 🇭🇰 香港 IEPL [04], 🇭🇰 香港 IEPL [05]
-TW = select, 🇨🇳 台湾 AIA [East], 🇨🇳 台湾 AIA [North], 🇨🇳 台湾 AIA [South], 🇨🇳 台湾 BGP [01], 🇨🇳 台湾 BGP [02], 🇨🇳 台湾 CHT [01], 🇨🇳 台湾 CHT [02], 🇨🇳 台湾 CHT [03], 🇨🇳 台湾 CHT [04], 🇨🇳 台湾 CHT [05], 🇨🇳 台湾 CHT [06], 🇨🇳 台湾 NTT, 🇨🇳 台湾 Seed
+HK = YouTube, Proxy
+SG = AsianTV, Proxy
+Emby = Proxy
+TW = YouTube
