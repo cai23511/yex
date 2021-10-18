@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,7mmtv.tv,Others
 DOMAIN-SUFFIX,slyk.net,HK
 DOMAIN,embyclub.com,Emby
 DOMAIN,jp.emby.cyou,YouTube
-DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,emby.wtf,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Pornhub.list,Proxy
 DOMAIN-SUFFIX,bilibili.com,DIRECT
 
